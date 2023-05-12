@@ -1,5 +1,5 @@
 # School_District-Analysis
-We have received a new version of the student data that has an additional column; "school budget", from Maria. Maria has requested we rework our analysis using the new version of the data. 
+We have received a new version of student data that has an additional column; "school budget", from Maria. Maria has requested we rework our analysis using the new version of the data. 
 ## Deliverables
 1. Collect the Student Data into a DataFrame
 2. Prepare a Cleaned Version of the DataFrame
