@@ -3,7 +3,8 @@ We have received a new version of student data that has an additional column; "s
 
 ## Summarize the Findings
 
-  Between the two school types Public Schools have a higher budget average at 911,195.56 compared to Charter Schools that have an average budget of 872,625.66. 
+Between the two school types Public Schools have a higher budget average at 911,195.56 compared to Charter Schools that have an average budget of 872,625.66. Additionally, the highest average Math Score of 70.08 comes from 9th grade Charter Schools and the lowest average Math Score comes from 11th grade Public Schools. Then the highest average Reading Score of 80.6 comes from 11th grade Charter schools while the lowest average comes from 9th grade Public Schools. 
+![Screenshot 2023-05-12 at 4 18 47 PM](https://github.com/Jall3n/School_District-Analysis/assets/119149740/6c678424-20e6-4b0c-9581-1249c38bd68e)
 
 
 ### References:
