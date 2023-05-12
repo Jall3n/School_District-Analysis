@@ -2,7 +2,8 @@
 We have received a new version of student data that has an additional column; "school budget", from Maria. Maria has requested we rework our analysis using the new version of the data. 
 
 ## Summarize the Findings
-![Student Data Description](https://github.com/Jall3n/School_District-Analysis/assets/119149740/87dca57a-4793-4111-85de-4d0b0c26bb9a)
+
+  Between the two school types Public Schools have a higher budget average at 911,195.56 compared to Charter Schools that have an average budget of 872,625.66. 
 
 
 ### References:
