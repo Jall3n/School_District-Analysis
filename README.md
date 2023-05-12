@@ -7,6 +7,7 @@ Between the two school types Public Schools have a higher budget average at 911,
 
 ![Screenshot 2023-05-12 at 4 18 47 PM](https://github.com/Jall3n/School_District-Analysis/assets/119149740/6c678424-20e6-4b0c-9581-1249c38bd68e)
 
+An additional analysis that could take place is finding the specific schools with the lowest and highest scores. Then comparing them with their school type and school budget to find any relation between budget and scores. 
 
 ### References:
 1. Module 4: https://courses.bootcampspot.com/courses/2957/assignments/47426?module_item_id=869768
